@@ -20,8 +20,8 @@ namespace API.Data
                     Description =
                         "A lightweight cream t-shirt perfect for chilling out.",
                     Price = 25,
-                    PictureUrl = "/images/products/sb-ang1.png",
-                    Type = "tshirt",
+                    PictureUrl = "/images/products/bc.png",
+                    Type = "T-Shirt",
                     QuantityInStock = 5
                 },
 
@@ -31,8 +31,8 @@ namespace API.Data
                     Description =
                         "Show some appreciation for you mom and her superb knitting skills!",
                     Price = 25,
-                    PictureUrl = "/images/products/sb-ang1.png",
-                    Type = "tshirt",
+                    PictureUrl = "/images/products/bkme.jpg",
+                    Type = "T-Shirt",
                     QuantityInStock = 5
                 },
 
