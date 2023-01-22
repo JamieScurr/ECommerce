@@ -21,7 +21,7 @@ namespace API.Data
                         "A lightweight cream t-shirt perfect for chilling out.",
                     Price = 25,
                     PictureUrl = "/images/products/sb-ang1.png",
-                    Type = "Boards",
+                    Type = "tshirt",
                     QuantityInStock = 5
                 },
 
@@ -32,7 +32,7 @@ namespace API.Data
                         "Show some appreciation for you mom and her superb knitting skills!",
                     Price = 25,
                     PictureUrl = "/images/products/sb-ang1.png",
-                    Type = "Boards",
+                    Type = "tshirt",
                     QuantityInStock = 5
                 },
 
